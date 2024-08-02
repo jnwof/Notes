@@ -14,12 +14,15 @@ There are four layers of these boxes, described in the following order (interior
 4. Margin (Most exterior)
 
 ### Content
-The content box is where the texts and images appear. 
+* The content box is where the texts and images appear. 
 ### Padding
-The padding is the blank space between the content (text and image) and the border. The color of the padding can be changed, and this is referred to as the background color.
+* The padding is the blank space between the content (text and image) and the border.
+* The color of the padding can be changed, and this is referred to as the background color.
 ### Border
-The border encapsulates the content and padding. 
+* The border encapsulates the content and padding. 
 ### Margin
-The margin creates an empty area around the border. It can be used to create space between two elements. The Margin is transparent. 
+* The margin creates an empty area around the border.
+* It can be used to create space between two elements.
+* The margin is transparent. 
 
 
