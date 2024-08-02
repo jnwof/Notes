@@ -13,7 +13,7 @@ parent {
 Once this is done, the children (all elements inside the parent flex container) will be affected when changing the flex attributes. 
 
 ## Anatomy of the flexbox 
-<p style="center">
+<p align="center">
   <img src="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox/flex_terms.png" alt="flexbox model">
 </p>
 
