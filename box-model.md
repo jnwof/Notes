@@ -1,4 +1,5 @@
 ### The Box Model
+
 ## What is the box model? 
 The box model describes how an element exists in a webpage - it describes its size and space taken. Think of every element as surrounded by boxes.
 There are four layers of these boxes, described by the following order (interior to exterior). 
