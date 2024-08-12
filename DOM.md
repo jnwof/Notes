@@ -3,7 +3,7 @@ How is an HTML (or XML) document treated when we try to incorporate JavaScript t
 This is done through the DOM interface where these documents can be interpreted as a tree structure! 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/DOM-model.svg)" alt="The DOM model on a hypothetical webpage">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/DOM-model.svg" alt="The DOM model on a hypothetical webpage">
 </p>
 
 ## Why is it called the DOM? Document? Object? Model? 
